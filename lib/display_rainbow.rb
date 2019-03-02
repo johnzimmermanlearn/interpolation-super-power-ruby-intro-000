@@ -1,4 +1,5 @@
 # Write your #display_rainbow method here
+# This is how you can pass an array and different arguments into a method
 rainbow = ["red", "orange","yellow", "green", "blue","indigo", "violet"]
 
 def display_rainbow(color)
